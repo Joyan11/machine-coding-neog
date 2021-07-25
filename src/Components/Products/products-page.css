@@ -1,0 +1,39 @@
+/** @format */
+
+.product-page {
+  display: flex;
+}
+
+.product-list {
+  width: 100%;
+}
+.product-listing {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.sidebar {
+  max-width: 200px;
+  width: 100%;
+  position: sticky;
+  top: 0;
+}
+
+.checkboxes div {
+  display: flex;
+  padding: 1rem 1rem;
+}
+
+.card--image img {
+  object-fit: cover;
+  height: 300px !important;
+}
+
+fieldset .checkboxes {
+  display: flex;
+  flex-direction: column;
+}
+
+.select {
+  padding-right: 3rem;
+}

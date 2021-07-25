@@ -1,0 +1,67 @@
+{
+  "productData": [
+    {
+      "id": 1,
+      "image": "https://rukminim1.flixcart.com/image/492/590/k44hksw0/t-shirt/m/t/r/m-dv24solidmustard-diversify-original-imafkbzvhcn3vgs7.jpeg?q=50",
+      "name": "tshit 1",
+      "gender": "men",
+      "size": "S",
+      "brand": "adidas",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "image": "https://rukminim1.flixcart.com/image/492/590/kf5pzm80-0/t-shirt/w/3/m/xxl-bblhenful-z14-blive-original-imafvzpkxzfgtp2k.jpeg?q=50",
+      "name": "tshirt 2",
+      "gender": "men",
+      "size": "M",
+      "brand": "puma",
+      "price": 700
+    },
+    {
+      "id": 3,
+      "image": "https://rukminim1.flixcart.com/image/492/590/kl175ow0/t-shirt/y/j/v/s-mwss21ts13b-metronaut-original-imagy8m9wtesgyhp.jpeg?q=50",
+      "name": "tshit 3",
+      "gender": "women",
+      "size": "S",
+      "brand": "puma",
+      "price": 700
+    },
+    {
+      "id": 4,
+      "image": "https://rukminim1.flixcart.com/image/492/590/k6xxua80/t-shirt/g/x/a/m-w-necktop-olive-base-41-original-imafpaewvnugkfuf.jpeg?q=50",
+      "name": "tshit 4",
+      "gender": "women",
+      "size": "M",
+      "brand": "adidas",
+      "price": 500
+    },
+    {
+      "id": 5,
+      "image": "https://rukminim1.flixcart.com/image/492/590/kr6oeq80/t-shirt/b/c/a/m-self-design-men-black-mochsingh-original-imag5yz5yhabxgp8.jpeg?q=50",
+      "name": "tshirt 5",
+      "gender": "men",
+      "size": "L",
+      "brand": "adidas",
+      "price": 900
+    },
+    {
+      "id": 6,
+      "image": "https://rukminim1.flixcart.com/image/492/590/k6xxua80/t-shirt/g/x/a/m-w-necktop-olive-base-41-original-imafpaewvnugkfuf.jpeg?q=50",
+      "name": "tshit 6",
+      "gender": "women",
+      "size": "L",
+      "brand": "puma",
+      "price": 500
+    },
+    {
+      "id": 7,
+      "image": "https://rukminim1.flixcart.com/image/492/590/kr6oeq80/t-shirt/b/c/a/m-self-design-men-black-mochsingh-original-imag5yz5yhabxgp8.jpeg?q=50",
+      "name": "tshit 7",
+      "gender": "men",
+      "size": "XL",
+      "brand": "puma",
+      "price": 1000
+    }
+  ]
+}
